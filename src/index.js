@@ -8,7 +8,7 @@ import { I18nextProvider } from "react-i18next";
 import i18next from "i18next";
 import common_tr from "./translations/tr/common.json";
 import common_en from "./translations/en/common.json";
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 import { initializeIcons } from "@fluentui/font-icons-mdl2";
 initializeIcons();
 i18next.init({
