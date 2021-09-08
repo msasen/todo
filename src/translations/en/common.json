@@ -1,0 +1,11 @@
+{
+	"mainComponent": {
+		"addCategories": "ADD TODO"
+	},
+	"sidebar": {
+		"addCategory":"ADD CATEGORIES",
+		"categories": "CATEGORIES",
+		"mainpage": "MAIN PAGE",
+		"menu": "MENU"
+	}
+}

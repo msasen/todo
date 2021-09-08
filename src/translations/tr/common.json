@@ -1,0 +1,11 @@
+{
+	"mainComponent": {
+		"addCategories": "TODO EKLE"
+	},
+	"sidebar": {
+		"addCategory":"KATEGORİ EKLE",
+		"categories": "KATEGORİLER",
+		"mainpage": "ANA SAYFA",
+		"menu": "MENÜ"
+	}
+}

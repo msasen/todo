@@ -1,0 +1,586 @@
+{
+  "todo": [
+    {
+      "name": "EV",
+      "isNull": 1,
+      "id": "fe8b6080-ae02-4389-929d-cec97ca72601"
+    },
+    {
+      "name": "MİLVA",
+      "isNull": 1,
+      "id": "2cf20452-6b50-4a49-9949-1c9988307518"
+    },
+    {
+      "name": "OKUL",
+      "isNull": 1,
+      "id": "2e4999d9-a8d4-45ae-b541-ca5c1b413a88"
+    },
+    {
+      "name": "MARKET",
+      "isNull": 1,
+      "id": "952c3084-986e-41f8-a4fa-12997bb7eca1"
+    }
+  ],
+  "category": [
+    {
+      "name": "Çöpü at",
+      "categoryID": "fe8b6080-ae02-4389-929d-cec97ca72601",
+      "categoryName": "EV",
+      "isNull": false,
+      "id": "a5883588-86e1-4df5-bbb5-4d35d7106fd5"
+    },
+    {
+      "name": "Çimleri sula",
+      "categoryID": "fe8b6080-ae02-4389-929d-cec97ca72601",
+      "categoryName": "EV",
+      "isNull": 1,
+      "id": "afd3fb8c-68a1-4ac8-a237-1f1e06609e2a"
+    },
+    {
+      "name": "Todo ödevini yap",
+      "categoryID": "2cf20452-6b50-4a49-9949-1c9988307518",
+      "categoryName": "MİLVA",
+      "isNull": false,
+      "id": "19c43e0c-ad54-48a9-bd3f-555500dc38c2"
+    },
+    {
+      "name": "Ali abiye mail at",
+      "categoryID": "2cf20452-6b50-4a49-9949-1c9988307518",
+      "categoryName": "MİLVA",
+      "isNull": 1,
+      "id": "b4ed2d0c-09ef-445a-b083-f79eddb4f7bb"
+    },
+    {
+      "name": "Kitap oku",
+      "categoryID": "fe8b6080-ae02-4389-929d-cec97ca72601",
+      "categoryName": "EV",
+      "isNull": false,
+      "id": "04ef74a9-6c0a-4289-92fa-0bebb5bdd46e"
+    },
+    {
+      "name": "Ders çalış ",
+      "categoryID": "fe8b6080-ae02-4389-929d-cec97ca72601",
+      "categoryName": "EV",
+      "isNull": 1,
+      "id": "d06b3308-d715-41c2-a287-4266e24ba7c3"
+    },
+    {
+      "name": "Flim izle",
+      "categoryID": "fe8b6080-ae02-4389-929d-cec97ca72601",
+      "categoryName": "EV",
+      "isNull": false,
+      "id": "f2d830c8-c0bf-4c84-89f7-74f937c7c901"
+    },
+    {
+      "name": "Ödev bitimini hatırlat",
+      "categoryID": "2cf20452-6b50-4a49-9949-1c9988307518",
+      "categoryName": "MİLVA",
+      "isNull": 1,
+      "id": "73a14b07-e4f4-4322-bf00-4bce586618aa"
+    },
+    {
+      "name": "Ders seç",
+      "categoryID": "2e4999d9-a8d4-45ae-b541-ca5c1b413a88",
+      "categoryName": "OKUL",
+      "isNull": 1,
+      "id": "20c2c785-85e1-4fe9-98df-e5c287155e9b"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": false,
+      "id": "3f516f0d-1ac8-46e0-a09a-eb4c9aaef7bc"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "3a41a3cf-9412-4656-a4c8-708bdc33a8e0"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "37e9615c-b0cd-4c22-ab87-63cbbcba1b8a"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "5068771d-bb5b-47f7-8284-27b3ef9b8ecb"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "cdbfd0bd-d9c3-41c7-8996-fcbe25380f65"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "28470355-6d1a-451f-96a4-05f0dd77ba09"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "be46b519-2fc3-49fb-b40b-4441803cdf4b"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "3f0d823b-c4a1-4f94-9b71-85b8d8709cb1"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "fbc4ba7a-0622-47cf-b3f7-e010d3ddab49"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "70949e22-a909-487a-9983-d4727c7a4613"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "487778e0-d9a3-481b-a78f-47f585bcef71"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "5712e2ca-acde-4ad8-aeb9-1f8d3293af93"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "ec1a6371-4b68-4ae6-a8bc-88af3c0b6b8c"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "9bc28e9d-de05-463b-9d63-eb3bf32274d4"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "a8fad067-2d97-4173-bf77-a4f59d5ded85"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "6e37efc4-0b0c-44b1-bbad-8e68c08a5a5d"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "5fb52d00-099d-444f-8769-9817eaa71c06"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "2b8d779a-aad3-491c-a895-1371619fe9fe"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "560992cf-ce9a-4998-aa9d-f93dd3fccb25"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "195a2753-512b-4e36-a92c-8635881fae5f"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "cd201625-c69f-41ea-ac4e-891962f3a8a5"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "e0867fbe-5bbe-432a-bdcc-b7fc5bbde025"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "cbd4eb63-8b68-4f22-8876-ed36ed59e967"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "48399e05-f322-42e5-9293-9d40e29fb4a5"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "71278087-2e90-403c-b84c-45bb4b459ffd"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "2ddef898-77d7-4698-a51d-569d119e8426"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "cb4a625b-ca55-4bfa-a388-36ccf0345250"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "cdb640c3-7e3a-4dcf-9cd2-dba95d6e02d1"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "6961a733-682c-4635-bc62-09207bc51e87"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "993dcc9a-1b5c-446f-a037-fc5dd41c9f7f"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "6c2960db-3390-4fb5-b994-dd5f16d04251"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "6ce1ae76-18a2-45c1-aeb9-76535878c748"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "84ab06ff-3474-4de9-9b99-10d050a50b6c"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "52bfbad2-224c-417a-b0a4-c10b3a68e865"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "685c46b2-5b07-478d-befa-444fadbb67d4"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "b4f93093-4436-4b0b-9d6a-12d44a2eb2d5"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "94bad565-9ab2-44a7-9c2e-cb23213bded3"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "f4e9bc78-180e-45d8-b469-b34b108c533c"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "120bd98d-0e48-425e-be26-f578e8110694"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "8c7e5d21-5a12-4877-b2d7-3f74fbecd4b6"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "339e240e-05b1-447c-b471-0aa56c9f910a"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "509857ad-d46b-4ce6-ac63-11756e183051"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "55a3d29b-1e76-4b6d-9083-6340e3fa97c3"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "bcec7178-1296-4d71-9249-b048d50f3d7b"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "95a7f4eb-f09c-4569-a180-309d7b87e625"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "a4e4c488-28c2-4fe4-8ded-217715f0f0e4"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "bd07deb6-c887-4b64-84b7-cc24769c8cf5"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "fbafae57-ba7b-48fd-930e-7c9826c2b572"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "06196b40-fce5-4976-ba3f-478625cd8327"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "5e0e7824-c5c2-492f-bb0a-54d2b9db2926"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "b65ce128-bd46-4551-ba0c-d18745302866"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "eddf8ff5-477b-4928-9615-6928abcbc625"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "b8e4a97f-1626-4e43-a8bd-b9ad8c8f3073"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "67326e49-387c-4aa9-94a1-494426fdf942"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "4cd88316-8bd7-4185-97c8-c29951aaf1eb"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "3eba70e0-ffcc-4d0a-b9c2-aaf06ab6107e"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "3571db69-3afd-4f52-89e7-a0fb8d94b8f1"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "6877e317-016c-4edf-a63d-6358f3267581"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "82c194ba-1e24-453a-a77e-d48571ecb0fa"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "7d42ba6b-3f49-4efa-829d-e4b04af5e2b3"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "6678615c-38f1-4f55-9129-3050db469221"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "017d873c-d2e9-48bc-a460-874fe40453ad"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "91fc1b34-a196-4752-b0e9-ce07e2059652"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "bf0144ab-5522-44ad-9635-63924667b334"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "fc62acf0-ba14-4073-853f-90d678c5a0ca"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "573f9a73-7d05-42f5-9e85-c8fdba0e6e51"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "242a8efa-9e0f-43d7-badd-2cf52c874ea1"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "ddf87f8f-6c68-4f9a-b8c4-917d91d266e6"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "93483583-956f-4602-8900-9753bef5d4b4"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "0b538ee8-02e9-4885-bc2f-fe5149275551"
+    },
+    {
+      "name": "lorem implus",
+      "categoryID": "952c3084-986e-41f8-a4fa-12997bb7eca1",
+      "categoryName": "MARKET",
+      "isNull": 1,
+      "id": "2795dd42-8bea-4856-9dff-6be51e13f6fd"
+    }
+  ]
+}

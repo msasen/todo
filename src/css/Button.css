@@ -1,0 +1,35 @@
+html {
+  width: 100vw;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(180deg);
+  }
+}
+ul {
+  list-style: none;
+}
+.controlPanelButton {
+  font-size: calc(35px * 0.8);
+}
+.controlPanelButton {
+  margin: 5px 11.5px 2.5px 0px;
+  padding: 12px 20px 0px 20px;
+  border-radius: 20px;
+  padding-top: -1px;
+  top: 0px;
+}
+.controlPanelButton i:hover {
+  top: 0px;
+  animation: spin 500ms linear;
+  animation-fill-mode: forwards;
+}
+.button {
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  color: white !important;
+  padding-bottom: 25px;
+}

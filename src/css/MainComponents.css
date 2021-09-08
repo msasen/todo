@@ -1,0 +1,156 @@
+.ListLogo {
+  margin-top: 10px;
+  padding-top: 6px;
+  padding-bottom: 7px;
+  display: flex;
+  transition: 0.3s;
+  border-radius: 20px;
+  background-color: rgba(12, 15, 25, 0.123);
+}
+.TodoName {
+  margin-left: 10px;
+  margin-top: 15px;
+  color: rgba(162, 167, 189, 0.78);
+  font-size: 24px;
+}
+.TodoName2 {
+  margin-left: 10px;
+  margin-top: 1px;
+  color: rgba(162, 167, 189, 0.78);
+  font-size: 36px;
+}
+.sideLogo i {
+  color: rgba(255, 255, 255, 0.952);
+  margin-top: 10px;
+  margin-left: 12px;
+  font-size: 20px;
+}
+
+.AllAppsLogo i {
+  color: rgba(255, 255, 255, 0.852);
+  margin-top: 14px;
+  margin-left: 12px;
+  font-size: 20px;
+  cursor: context-menu;
+}
+.MainAllAppsLogo i {
+  color: rgba(255, 255, 255, 0.852);
+  margin-top: 16px;
+  margin-left: 12px;
+  font-size: 20px;
+}
+
+.ListLogo a {
+  width: 100%;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.852);
+  font-family: Poppins, sans-serif;
+  display: flex;
+  align-items: center;
+  font-weight: 400;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 6px;
+}
+.ListLogo a:hover {
+  color: rgba(255, 255, 255, 0.952);
+}
+
+.ListLogo:hover {
+  background-color: rgba(12 15 25 / 50%);
+  border: solid;
+  border: 10px;
+}
+.TodoInput {
+  background: rgba(0, 0, 0, 0);
+  color: rgba(162, 167, 189, 0.78);
+  border: none;
+  margin-top: -12px;
+  height: 100%;
+  width: 73.4vw;
+  border-style: solid;
+  border-width: 0px 0px 2px 0px;
+  border-color: rgba(162, 167, 189, 0.78);
+}
+.TodoContext {
+  background: rgba(0, 0, 0, 0);
+  color: rgba(255, 255, 255, 0.852);
+  border: none;
+  margin-top: 5px;
+  height: 100%;
+  width: 7.7vw;
+}
+.EditButton {
+  background: rgba(0, 0, 0, 0);
+  padding-left: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 8px;
+  margin-bottom: 3px;
+  border: none;
+  cursor: pointer;
+}
+.EditButton i {
+  color: rgba(255, 255, 255, 0.775);
+  margin-top: 10px;
+  margin-left: -61px;
+  font-size: 20px;
+}
+.todoAdd {
+  background: rgba(0, 0, 0, 0);
+  padding-left: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 8px;
+  margin-bottom: -40px;
+  border: none;
+}
+.checkButton {
+  background: rgba(0, 0, 0, 0);
+  padding-left: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 8px;
+  margin-bottom: 3px;
+  border: none;
+  cursor: pointer;
+}
+.checkButton i {
+  color: rgba(255, 255, 255, 0.775);
+  margin-top: 10px;
+  margin-left: 31px;
+  font-size: 20px;
+}
+.checkButtons {
+  background: rgba(0, 0, 0, 0);
+  padding-left: 0px !important;
+  margin-left: 0px !important;
+  margin-left: -30px;
+  margin-bottom: 3px;
+  border: none;
+}
+.checkButtons i {
+  color: rgba(255, 255, 255, 0.775);
+  margin-top: 10px;
+  margin-left: -5px;
+  font-size: 22px;
+}
+.todoAdd i {
+  color: rgba(255, 255, 255, 0.875);
+  margin-top: 14px;
+  margin-left: -30px;
+  font-size: 20px;
+}
+.BookMarksButton {
+  background: rgba(0, 0, 0, 0);
+  padding-left: 0px !important;
+  margin-left: 23px !important;
+  margin-right: 0px;
+  margin-bottom: 3px;
+  border: none;
+}
+.BookMarksButton i {
+  position: relative;
+  color: rgb(162, 167, 189);
+  border: none;
+  top: 3px;
+  margin-left: -31px;
+  font-size: 25px;
+}

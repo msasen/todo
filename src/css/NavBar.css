@@ -1,0 +1,104 @@
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  height: 10.1vh;
+  color: rgba(255, 255, 255, 0.952);
+  font-family: Poppins, sans-serif;
+}
+.NavBarChild {
+  display: flex;
+}
+.leftChild {
+  padding-right: calc(40px * 0.8);
+  border-radius: 0px 10px 10px 10px;
+}
+.divFromFind {
+  margin: 10px 11px 20px 11px;
+  padding: 3px 130px 0px 15px;
+  border-style: solid;
+  border-width: 0px 0px 1.4px 0px; /* 25px top, 10px right, 4px bottom and 35px left */
+  border-color: rgba(255, 255, 255, 0.658);
+  border-radius: 20px;
+}
+#find {
+  border: none;
+  color: rgba(162, 167, 189, 0.78);
+  background: rgba(0, 0, 0, 0);
+  border: none;
+  height: 90%;
+  width: 22vw;
+  margin: 0px 0 -10px 10px;
+  padding: 20px 20px 10px 0px;
+}
+.sideScroll {
+  overflow: auto;
+  height: 89.9vh;
+}
+.scrollBarTodo {
+  overflow: auto;
+  height: 66vh;
+  margin-right: 0px;
+}
+* {
+  scrollbar-width: auto;
+  scrollbar-color: rgba(71, 71, 71, 0.192) rgba(0, 0, 0, 0);
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 8px;
+  background: rgba(0, 0, 0, 0);
+}
+
+*::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0);
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.096);
+  border-radius: 5px;
+  border: 0px solid #ffffff;
+}
+
+#find:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  transition: width 0.4s ease-in-out;
+  width: 33vw;
+}
+input:focus {
+  outline: none;
+}
+#SearchButton {
+  margin-top: 3px;
+  margin-left: -3px;
+  font-size: 24px;
+}
+
+#contactButon {
+  font-size: 22px;
+  margin: 22px 40px 35px 20px;
+  padding: 0px 0px 1.5px 2.3px;
+  border-radius: 100px;
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  border: solid;
+  border-radius: 100px;
+  box-shadow: 0px 0px 0.5px #888;
+}
+.rightChild {
+  padding-right: 0px !important;
+  padding-right: 50px;
+  border-radius: 0px 10px 10px 10px;
+}
+
+.toDoText {
+  padding-top: calc(27px * 0.84);
+  font-size: calc(30px * 0.9);
+  margin-top: "25px";
+  font-family: "SegoeUI-SemiBold-final,Segoe UI Semibold,SegoeUI-Regular-final,Segoe UI,"
+    Segoe UI Web (West European)
+    ",Segoe,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Tahoma,Helvetica,Arial,sans-serif";
+}
